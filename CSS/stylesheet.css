@@ -21,7 +21,7 @@
   
   nav {
       overflow: hidden;
-      background-color: #B4AECC;
+      background-color: gray;
     }
     
   nav a {
@@ -34,7 +34,7 @@
     }
   
   nav a:hover {
-      background-color: #706C7F;
+      background-color: lightgray;
       color: whitesmoke;
     }
   
@@ -67,7 +67,7 @@
     }
   
   footer {
-      background-color: #B4AECC;
+      background-color: whitesmoke;
       text-align: center;
       padding: 10px;
       margin-top: 20px;
@@ -82,12 +82,12 @@
       padding: 11px;
     }
     
-  tr:nth-child(even){background-color: #B4AECC}
+  tr:nth-child(even){background-color: whitesmoke}
     
   thead {
-      background-color:#52467F ;
+      background-color:whitesmoke ;
       color: white;
     }
   
-  tr:hover {background-color:#706C7F;}
+  tr:hover {background-color:whitesmoke;}
   
